@@ -46,21 +46,21 @@ This capstone project demonstrates the integration of various modern technologie
 ## 📸 Screenshots
 
 <div style="display: flex; overflow-x: auto; white-space: nowrap;">
-  <img src="screenshot/app/Screenshot12.png" alt="Screenshot 12" style="width: 260px; height: auto; margin-right: 10px;">
-  <img src="screenshot/app/Screenshot13.png" alt="Screenshot 13" style="width: 260px; height: auto; margin-right: 10px;">
-  <img src="screenshot/app/Screenshot14.png" alt="Screenshot 14" style="width: 260px; height: auto; margin-right: 10px;">
-  <img src="screenshot/app/Screenshot15.png" alt="Screenshot 15" style="width: 260px; height: auto; margin-right: 10px;">
-  <img src="screenshot/app/Screenshot1.png" alt="Screenshot 1" style="width: 260px; height: auto; margin-right: 10px;">
-  <img src="screenshot/app/Screenshot2.png" alt="Screenshot 2" style="width: 260px; height: auto; margin-right: 10px;">
-  <img src="screenshot/app/Screenshot3.png" alt="Screenshot 3" style="width: 260px; height: auto; margin-right: 10px;">
-  <img src="screenshot/app/Screenshot4.png" alt="Screenshot 4" style="width: 260px; height: auto; margin-right: 10px;">
-  <img src="screenshot/app/Screenshot5.png" alt="Screenshot 5" style="width: 260px; height: auto; margin-right: 10px;">
-  <img src="screenshot/app/Screenshot6.png" alt="Screenshot 6" style="width: 260px; height: auto; margin-right: 10px;">
-  <img src="screenshot/app/Screenshot7.png" alt="Screenshot 7" style="width: 260px; height: auto; margin-right: 10px;">
-  <img src="screenshot/app/Screenshot8.png" alt="Screenshot 8" style="width: 260px; height: auto; margin-right: 10px;">
-  <img src="screenshot/app/Screenshot9.png" alt="Screenshot 9" style="width: 260px; height: auto; margin-right: 10px;">
-  <img src="screenshot/app/Screenshot10.png" alt="Screenshot 10" style="width: 260px; height: auto; margin-right: 10px;">
-  <img src="screenshot/app/Screenshot11.png" alt="Screenshot 11" style="width: 260px; height: auto;">
+  <img src="screenshot/app/Screenshot12.png" alt="Screenshot 12" style="width: 272px; height: auto; margin-right: 10px;">
+  <img src="screenshot/app/Screenshot13.png" alt="Screenshot 13" style="width: 272px; height: auto; margin-right: 10px;">
+  <img src="screenshot/app/Screenshot14.png" alt="Screenshot 14" style="width: 272px; height: auto; margin-right: 10px;">
+  <img src="screenshot/app/Screenshot15.png" alt="Screenshot 15" style="width: 272px; height: auto; margin-right: 10px;">
+  <img src="screenshot/app/Screenshot1.png" alt="Screenshot 1" style="width: 272px; height: auto; margin-right: 10px;">
+  <img src="screenshot/app/Screenshot2.png" alt="Screenshot 2" style="width: 272px; height: auto; margin-right: 10px;">
+  <img src="screenshot/app/Screenshot3.png" alt="Screenshot 3" style="width: 272px; height: auto; margin-right: 10px;">
+  <img src="screenshot/app/Screenshot4.png" alt="Screenshot 4" style="width: 272px; height: auto; margin-right: 10px;">
+  <img src="screenshot/app/Screenshot5.png" alt="Screenshot 5" style="width: 272px; height: auto; margin-right: 10px;">
+  <img src="screenshot/app/Screenshot6.png" alt="Screenshot 6" style="width: 272px; height: auto; margin-right: 10px;">
+  <img src="screenshot/app/Screenshot7.png" alt="Screenshot 7" style="width: 272px; height: auto; margin-right: 10px;">
+  <img src="screenshot/app/Screenshot8.png" alt="Screenshot 8" style="width: 272px; height: auto; margin-right: 10px;">
+  <img src="screenshot/app/Screenshot9.png" alt="Screenshot 9" style="width: 272px; height: auto; margin-right: 10px;">
+  <img src="screenshot/app/Screenshot10.png" alt="Screenshot 10" style="width: 272px; height: auto; margin-right: 10px;">
+  <img src="screenshot/app/Screenshot11.png" alt="Screenshot 11" style="width: 272px; height: auto;">
 </div>
 
 ## 📸 Scanner APP Screenshots
