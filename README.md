@@ -5,7 +5,7 @@
 This project was awarded the **"Best of Program"** for the Mobile Solutions Development Capstone Project at Conestoga College.
 
 ## 📖 Project Overview
-This capstone project demonstrates the integration of various modern technologies to create a robust mobile solution. The project leverages the power of **React Native with TypeScript** to deliver a seamless user experience, supported by a **Node.js** backend.
+Zink is an App that provides an integrated solution to Public Transit Access Management in a way that makes sense to the users, providing deals & packages for transit passes that give you access to the services you use the most, depending on where you live & travel to. This capstone project demonstrates the integration of various modern technologies to create a robust mobile solution. The project leverages the power of **React Native with TypeScript** to deliver a seamless user experience supported by a **Node.js** backend and much more.
 
 ## 🛠 Technologies Used
 - **Frontend:**
