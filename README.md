@@ -16,13 +16,8 @@ This capstone project demonstrates the integration of various modern technologie
   - 🟢 Node.js
   - 🔥 Firebase for database storage
 
-- **Features:**
-  - 📧 SendGrid for email services
-  - 🔐 Google Sign-Up
-  - 📲 OTP Verification
-  - 💳 Payment Method Integration
-
 ## ✨ Key Features
+
 - **Authentication:**
   - 🔐 Sign up with Google
   - 📲 OTP verification for secure access
@@ -38,6 +33,38 @@ This capstone project demonstrates the integration of various modern technologie
 
 - **Payments:**
   - 💳 Integration of various payment methods for a seamless transaction experience
+
+- **Security:**
+  - 🔒 QR Code Generator with 256-bit Encryption
+
+- **Localization:**
+  - 🌐 French and English Language Support
+
+- **User Experience:**
+  - 🌗 Light and Dark Mode
+
+## 📸 Screenshots
+
+<div style="display: flex; overflow-x: auto; white-space: nowrap;">
+  <img src="screenshot/app/Screenshot1.png" alt="Screenshot 1" style="width: 300px; height: auto; margin-right: 10px;">
+  <img src="screenshot/app/Screenshot2.png" alt="Screenshot 2" style="width: 300px; height: auto; margin-right: 10px;">
+  <img src="screenshot/app/Screenshot3.png" alt="Screenshot 3" style="width: 300px; height: auto; margin-right: 10px;">
+  <img src="screenshot/app/Screenshot4.png" alt="Screenshot 4" style="width: 300px; height: auto; margin-right: 10px;">
+  <img src="screenshot/app/Screenshot5.png" alt="Screenshot 5" style="width: 300px; height: auto; margin-right: 10px;">
+  <img src="screenshot/app/Screenshot6.png" alt="Screenshot 6" style="width: 300px; height: auto; margin-right: 10px;">
+  <img src="screenshot/app/Screenshot7.png" alt="Screenshot 7" style="width: 300px; height: auto; margin-right: 10px;">
+  <img src="screenshot/app/Screenshot8.png" alt="Screenshot 8" style="width: 300px; height: auto; margin-right: 10px;">
+  <img src="screenshot/app/Screenshot9.png" alt="Screenshot 9" style="width: 300px; height: auto; margin-right: 10px;">
+  <img src="screenshot/app/Screenshot10.png" alt="Screenshot 10" style="width: 300px; height: auto; margin-right: 10px;">
+  <img src="screenshot/app/Screenshot11.png" alt="Screenshot 11" style="width: 300px; height: auto; margin-right: 10px;">
+  <img src="screenshot/app/Screenshot12.png" alt="Screenshot 12" style="width: 300px; height: auto;">
+</div>
+
+## 📸 Scanner APP Screenshots
+
+<div style="display: flex; overflow-x: auto; white-space: nowrap;">
+  <img src="screenshot/scanner/Screenshot1.png" alt="Screenshot 1" style="width: '100%'; height: auto;">
+</div>
 
 ## 🖼 Award Image
 ![image](https://github.com/user-attachments/assets/8e25f0fe-e34f-4503-9e8b-1d1fc4babf88)
